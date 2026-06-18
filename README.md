@@ -4,22 +4,6 @@ Expense Tracker is a fully responsive web application built using Django and Tai
 
 This project reflects my hands-on experience in Python Full Stack Development, focusing on secure authentication, clean backend architecture, and a modern responsive UI.
 
-👨‍💻 Developed By
-
-Ganesh M ❤️
-Python Full Stack Developer
-📍 Bengaluru, India
-
-📧 Email: ganeshmuruga2005@gmail.com
-
-🔗 LinkedIn: https://linkedin.com/in/ganesh-murugan-b86674295
-
-💻 GitHub: https://github.com/rohit45-cell
-
-🌐 Portfolio: https://ganesh45.netlify.app
-
-
-
 ✨ Features
 
 Expenses & Incomes Dashboard
